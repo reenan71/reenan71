@@ -4,6 +4,7 @@
 
 Me chamo Robson Renan da Silva, tenho 27 anos e sou natural do Parané. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Sou apaixonado por tecnologia e estou procurando aprimorar meu conhecimentos.
 <p align="left">
+     <a href="https://www.linkedin.com/in/robson-renan-da-silva-934615236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/reenan71?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -18,7 +19,7 @@ Me chamo Robson Renan da Silva, tenho 27 anos e sou natural do Parané. Atualmen
             src="https://custom-icon-badges.demolab.com/github/followers/reenan71?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </p>
 
 ---
