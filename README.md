@@ -3,7 +3,7 @@
 **`Futuro Desenvolvedor FullStack`**
 
 Me chamo Robson Renan da Silva. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Sou apaixonado por tecnologia e estou procurando aprimorar meu conhecimentos.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou procurando aprimorar meu conhecimentos.
 <p align="left">
      <a href="https://www.linkedin.com/in/robson-renan-da-silva-934615236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
